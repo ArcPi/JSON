@@ -12,7 +12,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24bea2fe-5830-4444-93a7-a3ea3a1a03c8" name="Default Changelist" comment="" />
+    <list default="true" id="24bea2fe-5830-4444-93a7-a3ea3a1a03c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leptjson.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leptjson.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leptjson.dir/leptjson.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leptjson.dir/leptjson.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leptjson_test.dir/test.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leptjson_test.dir/test.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/leptjson_test" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/leptjson_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libleptjson.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libleptjson.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leptjson.c" beforeDir="false" afterPath="$PROJECT_DIR$/leptjson.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leptjson.h" beforeDir="false" afterPath="$PROJECT_DIR$/leptjson.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/test.c" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leptjson.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="79" column="23" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="23" />
+            <state relative-caret-position="1806">
+              <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
               <folding>
                 <element signature="e#39#60#0" expanded="true" />
               </folding>
@@ -39,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/leptjson.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -47,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1848">
-              <caret line="88" column="35" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+            <state relative-caret-position="756">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
               <folding>
                 <element signature="e#38#56#0" expanded="true" />
               </folding>
@@ -78,9 +88,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="5">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
     <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -151,18 +160,19 @@
       <updated>1548480760254</updated>
       <workItem from="1548480762540" duration="3348000" />
       <workItem from="1548484329938" duration="5342000" />
-      <workItem from="1549116184323" duration="2981000" />
+      <workItem from="1549116184323" duration="11414000" />
+      <workItem from="1549184748810" duration="818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11671000" />
+    <option name="totallyTimeSpent" value="20922000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1044" extended-state="4" />
+    <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25372022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2561366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -195,10 +205,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/include/errno.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="88" column="35" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+        <state relative-caret-position="756">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
           <folding>
             <element signature="e#38#56#0" expanded="true" />
           </folding>
@@ -208,14 +225,14 @@
     <entry file="file://$PROJECT_DIR$/leptjson.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leptjson.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="79" column="23" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="23" />
+        <state relative-caret-position="1806">
+          <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
           <folding>
             <element signature="e#39#60#0" expanded="true" />
           </folding>
